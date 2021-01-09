@@ -1,1 +1,2 @@
-# gitignore
+- [Preview](https://yevhenii-kozak.github.io/lesson0/index)
+- [Pull Request](https://github.com/yevhenii-kozak/lesson0/pull/1/files)
